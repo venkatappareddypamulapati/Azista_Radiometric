@@ -12,8 +12,8 @@ from skimage.metrics import mean_squared_error
 from Kernel_Estimation import kernel_estimation
 #from medpy.filter.smoothing import anisotropic_diffusion
 import cv2
-import numpy as np
 #import pandas as pd
+import numpy as np
 
 #file_path = glob.glob('/home/venkat/Downloads/Image-deblur-using-image-pairs-master/Data Set') # Read out all the test image in the /image/ file directory
 img_dir = "/home/venkat/Data_Set/"
